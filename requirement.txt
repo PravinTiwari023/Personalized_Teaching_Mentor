@@ -1,0 +1,8 @@
+streamlit
+crewai
+crew[tools]
+langchain_core
+python-dotenv
+langchain_community
+invoke
+tools
